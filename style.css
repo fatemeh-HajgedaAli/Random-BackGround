@@ -1,0 +1,11 @@
+.picures{
+    width: 100%;
+}
+.text{
+    display: inline;
+    position: absolute;
+    font-size: 150px;
+    right: 100px;
+    top: 90px;
+    text-shadow: 1px 2px 5px rgb(251, 192, 45);
+}
